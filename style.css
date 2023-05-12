@@ -325,6 +325,7 @@ section .title::after{
 /* projects */
 .Portfolio{
     background-color: #111;
+    font-family: 'Ubuntu', sans-serif;
 }  
 
 .Portfolio p{
@@ -335,13 +336,18 @@ section .title::after{
 
 .Portfolio h2 {
     color: #fff;
-    font-size: 2rem;
+    /* font-size: 1.5rem;
+   text-align: center; */
    text-align: center;
-   font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500;
+   /* font-family: 'Times New Roman', Times, serif; */
+   font-family: 'Ubuntu', sans-serif;;
 }
 
-.Portfolio h2 span{
+.latest{
     color:  #f13a11;
+    
 }
 
 
@@ -373,7 +379,8 @@ section .title::after{
     font-size: 1.7rem;
     color: #fff;
     margin-bottom: .6rem;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .portfolio-content .row button{
@@ -385,6 +392,7 @@ section .title::after{
     height: 2.5rem;
     cursor: pointer;
     /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Ubuntu', sans-serif;
     border: 2px solid   #f13a11
     
 }
@@ -685,15 +693,23 @@ footer span a:hover{
 
 .Portfolio h2 {
     color: #fff;
-    font-size: 3.8rem;
+    /* font-size: 3rem;
+   text-align: center; */
    text-align: center;
-   font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500;
+   /* font-family: 'Times New Roman', Times, serif; */
+   font-family: 'Ubuntu', sans-serif;
+  
 }
 
-.Portfolio h2 span{
+.latest{
     color:  #f13a11;
+    border-bottom: 2px solid white;
 }
-
+.project{
+    border-bottom: 2px solid white;
+}
 
 
 
@@ -723,7 +739,8 @@ footer span a:hover{
     font-size: 1.7rem;
     color: #fff;
     margin-bottom: .6rem;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .portfolio-content .row button{
@@ -735,7 +752,8 @@ footer span a:hover{
     width: 6rem;
     height: 2.5rem;
     cursor: pointer;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Ubuntu', sans-serif;
 }
 .portfolio-content .row button:hover{
     /* margin-top: .3rem; */
