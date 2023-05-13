@@ -696,13 +696,24 @@ footer span a:hover{
     /* font-size: 3rem;
    text-align: center; */
    text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 500;
    /* font-family: 'Times New Roman', Times, serif; */
    font-family: 'Ubuntu', sans-serif;
   
 }
+.frontned{
 
+    color: #fff;
+    /* font-size: 3rem;
+   text-align: center; */
+   text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+   /* font-family: 'Times New Roman', Times, serif; */
+   font-family: 'Ubuntu', sans-serif;
+  
+}
 .latest{
     color:  #f13a11;
     border-bottom: 2px solid white;
@@ -710,6 +721,15 @@ footer span a:hover{
 .project{
     border-bottom: 2px solid white;
 }
+
+.latest2{
+    color:  #f13a11;
+    border-bottom: 2px solid white;
+}
+.project2{
+    border-bottom: 2px solid white;
+}
+
 
 
 
