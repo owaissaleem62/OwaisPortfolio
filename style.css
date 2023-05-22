@@ -61,7 +61,7 @@ section .title{
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 section .title::before{
     content: "";
@@ -90,7 +90,7 @@ section .title::after{
     width: 100%;
     z-index: 999;
     padding: 30px 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease;
 }
 .navbar.sticky{
@@ -185,7 +185,7 @@ section .title::after{
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .home .max-width{
   width: 100%;
@@ -325,7 +325,7 @@ section .title::after{
 /* projects */
 .Portfolio{
     background-color: #111;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }  
 
 .Portfolio p{
@@ -342,7 +342,7 @@ section .title::after{
     font-size: 40px;
     font-weight: 500;
    /* font-family: 'Times New Roman', Times, serif; */
-   font-family: 'Ubuntu', sans-serif;;
+   font-family: 'Poppins', sans-serif;;
 }
 
 .latest{
@@ -380,7 +380,7 @@ section .title::after{
     color: #fff;
     margin-bottom: .6rem;
     /* font-family: 'Times New Roman', Times, serif; */
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .portfolio-content .row button{
@@ -392,7 +392,7 @@ section .title::after{
     height: 2.5rem;
     cursor: pointer;
     /* font-family: 'Times New Roman', Times, serif; */
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
     border: 2px solid   #f13a11
     
 }
@@ -699,7 +699,7 @@ footer span a:hover{
     font-size: 50px;
     font-weight: 500;
    /* font-family: 'Times New Roman', Times, serif; */
-   font-family: 'Ubuntu', sans-serif;
+   font-family: 'Poppins', sans-serif;
   
 }
 .frontned{
@@ -711,7 +711,7 @@ footer span a:hover{
     font-size: 38px;
     font-weight: 500;
    /* font-family: 'Times New Roman', Times, serif; */
-   font-family: 'Ubuntu', sans-serif;
+   font-family: 'Poppins', sans-serif;
   
 }
 .latest{
@@ -760,7 +760,7 @@ footer span a:hover{
     color: #fff;
     margin-bottom: .6rem;
     /* font-family: 'Times New Roman', Times, serif; */
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .portfolio-content .row button{
@@ -773,7 +773,7 @@ footer span a:hover{
     height: 2.5rem;
     cursor: pointer;
     /* font-family: 'Times New Roman', Times, serif; */
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .portfolio-content .row button:hover{
     /* margin-top: .3rem; */
